@@ -1,0 +1,4 @@
+@EndUserText.label: 'ZUI_TRIAL_EXTERNAL'
+define service ZUI_TRIAL_EXTERNAL {
+  expose ZTRIAL_CDS;
+}
